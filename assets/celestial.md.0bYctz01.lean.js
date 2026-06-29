@@ -1,0 +1,1 @@
+import{_ as d,o as a,c as r,a4 as e}from"./chunks/framework.E9a65_Io.js";const f=JSON.parse('{"title":"天界","description":"","frontmatter":{},"headers":[],"relativePath":"celestial.md","filePath":"celestial.md"}'),n={name:"celestial.md"};function o(i,t,c,l,s,p){return a(),r("div",null,[...t[0]||(t[0]=[e("",10)])])}const g=d(n,[["render",o]]);export{f as __pageData,g as default};

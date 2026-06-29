@@ -1,0 +1,1 @@
+import{_ as d,o as r,c as e,a4 as o}from"./chunks/framework.E9a65_Io.js";const s=JSON.parse('{"title":"岩石 🪨","description":"","frontmatter":{},"headers":[],"relativePath":"rock-🪨.md","filePath":"rock-🪨.md"}'),a={name:"rock-🪨.md"};function i(n,t,l,p,h,u){return r(),e("div",null,[...t[0]||(t[0]=[o("",12)])])}const _=d(a,[["render",i]]);export{s as __pageData,_ as default};
