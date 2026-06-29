@@ -23,7 +23,11 @@ walk(ROOT, (file) => {
     content = content.replace(/href="(\/[^"]*?)"/g, (m, url) => {
       if (url.includes("://") || url.includes(".html") || url.includes(".css") || 
           url.includes(".js") || url.includes(".woff") || url.includes(".ico") ||
-          url.startsWith("mailto:") || url.startsWith("#") || url === "/") return m;
+          url.startsWith("mailto:") || url.startsWith("#")) return m;
+      if (url === "/") return m;
+      // Ensure base path prefix
+      const base = "/The-Silly-Caverns-Wiki-cn";
+      if (!url.startsWith(base)) url = base + url;
       return `href="${url}.html"`;
     });
     changed = true;
