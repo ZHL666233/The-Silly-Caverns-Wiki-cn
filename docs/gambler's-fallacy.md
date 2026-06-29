@@ -26,7 +26,8 @@
 
 ### 其他信息
 
-* Instead of finding ✴️ manually, you could go to the barrier wall and use offline progress there. You can passively get ✴️ from it and maybe get ❔ in the process. * This pickaxe has a useful ability, being to teleport through the barrier wall when at Y: -7,999 and not automining. Every tick does a chance of teleporting it under the barrier wall, into the barrier layer.
+* 不必手动寻找 ✴️，去屏障墙处使用离线进度即可。你可以被动获取 ✴️，过程中还可能获得 ❔。
+* 这把镐子有一个实用技能：在 Y:-7,999 且未自动挖掘时，可以穿过屏障墙传送。每次 tick 都有概率被传送到屏障墙下方，进入屏障层。
 
 ---
 *由 [笨猫探穴 Wiki](https://the-silly-caverns.fandom.com/wiki/Gambler's_Fallacy) 汉化*

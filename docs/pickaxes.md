@@ -1,6 +1,6 @@
-# Pickaxes
+# 镐子图鉴
 
-镐子 are one of the major aspects in 笨猫探穴, 和 可在所有世界中找到.
+镐子是笨猫探穴中最重要的元素之一，可在所有世界中找到。
 
 世界 1 镐子:
 

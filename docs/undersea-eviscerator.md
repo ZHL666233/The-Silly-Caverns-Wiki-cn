@@ -33,7 +33,7 @@
 
 ### 其他信息
 
-*If you are missing [[File:HD160529.png|20px]], mine in [[Watr Watr]]. If not, mine in the Water Layer CLT. This is because the Celestial ore needed is only obtainable by an event being active.
+* 如果你缺少 HD160529，在[水水世界](./watr-watr.md)挖掘。如果不缺，在水层 CLT 挖掘。因为所需的天界矿石只有在事件激活时才能获得。
 
 ---
 *由 [笨猫探穴 Wiki](https://the-silly-caverns.fandom.com/wiki/Undersea_Eviscerator) 汉化*

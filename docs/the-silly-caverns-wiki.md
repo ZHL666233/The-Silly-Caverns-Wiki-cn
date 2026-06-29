@@ -1,14 +1,14 @@
-# The Silly Caverns Wiki
+# 笨猫探穴 Wiki
 
-Welcome to the {{SITENAME}}!
+欢迎来到笨猫探穴 Wiki！
 
-Only the most SILLY MINERS can 挖掘 in these caverns.
+只有最傻的矿工才能在这些洞穴里挖掘。
 
-Welcome one 和 all to the one 和 only....SILLY CAVERNS WIKI!
+欢迎各位来到这独一无二的……笨猫洞穴 Wiki！
 
-Made 和 created on 10/4/2024, it is constantly being updated to the best of the editor's 技能. ANYONE is allowed to edit the pages, so long as they do not grief it. If you are found to be griefing the Wiki, you will be banned from editing, 和 punished in some form.
+本站创建于 2024 年 10 月 4 日，编辑们一直在尽力持续更新。任何人都可以编辑页面，前提是不恶意破坏。如果你被发现恶意破坏 Wiki，你将被禁止编辑，并受到某种形式的惩罚。
 
-笨猫探穴 is a 挖掘 game, made by Amber Catgirl. It has been built from the ground up by her, 和 the multiples of people who have helped her in her time of working on the game. It is very impressive how much she 拥有chieved. The main synopsis of 笨猫探穴 is that it is a form of 挖掘 game, where you can grind 矿石, 齿轮, 镐子, 和 so much more in the varieties of 世界 和 places you can go to! There are limited 矿石 that are available during certain times, constant updates to the game by Amber, 和 a ton more that makes it as amazing as it is! Amber is Truly the cat of all time :joy::joy::joy::joy::joy::joy::joy::joy::joy::joy: !
+笨猫探穴是一款挖掘游戏，由 Amber Catgirl 制作。她从零开始构建了这个游戏，很多人在她开发过程中帮助过她。她的成就是如此令人惊叹。笨猫探穴的核心玩法就是挖掘——你可以在不同的世界和地点中刷矿石、齿轮、镐子等各种内容！某些矿石是限时获取的，Amber 也在不断更新游戏，还有超多内容让这个游戏变得无比精彩！Amber 真是永远的神猫 😂😂😂😂😂😂😂😂😂😂
 
 This wiki is simply for that game, 和 will house every single 矿石, 镐子, 齿轮, 和 so much more that is 之中 the game.
 

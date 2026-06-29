@@ -2,9 +2,9 @@
 
 <img src="https://static.wikia.nocookie.net/the-silly-cavers/images/W1thumbredo.png" alt="W1thumbredo.png" loading="lazy" style="max-width:400px;border-radius:8px" />
 
-世界一 是你进入的第一个世界 笨猫探穴. 它总共包含 9 普通地层 和 3 特殊地层. 它还总共有 15 镐子, 其中之一是 通往世界二的钥匙. There are a total of 16 齿轮, 其中之一是 特殊.
+世界一 是你进入的第一个世界 笨猫探穴. 它总共包含 9 普通地层 和 3 特殊地层. 它总共有 15 把镐子，其中之一是通往世界二的钥匙。还有总共 16 个齿轮，其中之一是特殊齿轮。
 
-世界一 是你开始挖掘的第一个地方, as it is the first 世界 你将进入 when you first start up a 新存档. 你的旅程通常始于 the 泥土 地层 但 根据你选择的起点，也可能从其他地方开始.
+世界一 是你开始挖掘的第一个地方, 因为它是你开启新存档后进入的第一个世界。你的旅程通常始于泥土地层，但根据你选择的起点，也可能从其他地方开始。
 
 ### 地层
 
@@ -260,7 +260,7 @@
 
 在此之后，一旦超过 17999 米，你将进入重复地层. 在重复地层中，你可以找到三个特殊地层. Those 地层 are 🎂/愚蠢 地层, 🪈/笛子 地层, 和 特殊 Grass 地层. 它们都可以在重复地层中生成，但各自有设定的概率来取代某个重复地层并转变为自身. 愚蠢/Cake 地层 is a 1/77, 笛子 地层 is a 1/40, 和 特殊 🟩/Grass 地层 is a 1/1337. 以下是来自游戏内 FAQ 和 Discord 的更多相关信息：:
 
-"In 世界 2 和 子领域 1, the last 地层 of the 世界 will keep generating infinitely as you go down. In 世界 1, there's a 特殊 mechanic that keeps generating 地层 the further down you go. These 地层 are usually repeated versions of the main 地层, with a small 概率 have something added to them. There are also a few 隐藏地层 that have a very low chance of generating. These 特殊地层, along with the lowest point you've been, will be added to the 传送 list on generation. An index page for the 隐藏地层 will also be created once you have 已挖 a certain amount in those 地层."
+在世界二和子领域一中，最后一个地层会随着你不断向下挖掘而无限生成。在世界一中，有一个特殊机制，越往下走，生成的地层越多。这些地层通常是主地层的重复版本，并有小概率附加一些特殊内容。还有几个隐藏地层，生成几率非常低。这些特殊地层以及你到过的最低点，会在生成时被添加到传送列表中。一旦你在这些隐藏地层中挖掘达到一定数量，还会为你创建索引页面。
 
 In the 🎂/愚蠢 地层, 有一种特殊矿石只有在触发事件后才能获得. 但该事件极其罕见，持续 2.5 小时. (事件概率为 1/100000)
 

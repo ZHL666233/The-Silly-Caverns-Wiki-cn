@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as r,a4 as s}from"./chunks/framework.E9a65_Io.js";const d=JSON.parse('{"title":"Pickaxes","description":"","frontmatter":{},"headers":[],"relativePath":"pickaxes.md","filePath":"pickaxes.md"}'),i={name:"pickaxes.md"};function p(c,e,o,n,_,l){return t(),r("div",null,[...e[0]||(e[0]=[s("",8)])])}const m=a(i,[["render",p]]);export{d as __pageData,m as default};

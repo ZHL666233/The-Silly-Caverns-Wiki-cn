@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,a4 as p}from"./chunks/framework.E9a65_Io.js";const m=JSON.parse('{"title":"镐子图鉴","description":"","frontmatter":{},"headers":[],"relativePath":"pickaxes.md","filePath":"pickaxes.md"}'),s={name:"pickaxes.md"};function i(o,e,n,c,_,l){return t(),r("div",null,[...e[0]||(e[0]=[p("",8)])])}const f=a(s,[["render",i]]);export{m as __pageData,f as default};
