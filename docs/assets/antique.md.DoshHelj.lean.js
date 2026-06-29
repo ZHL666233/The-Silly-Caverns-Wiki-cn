@@ -1,0 +1,1 @@
+import{_ as d,o as r,c as e,a4 as a}from"./chunks/framework.E9a65_Io.js";const l=JSON.parse('{"title":"古董","description":"","frontmatter":{},"headers":[],"relativePath":"antique.md","filePath":"antique.md"}'),n={name:"antique.md"};function o(i,t,m,p,s,_){return r(),e("div",null,[...t[0]||(t[0]=[a("",9)])])}const c=d(n,[["render",o]]);export{l as __pageData,c as default};

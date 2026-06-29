@@ -1,0 +1,1 @@
+import{_ as a,o as d,c as s,a4 as r}from"./chunks/framework.E9a65_Io.js";const i=JSON.parse('{"title":"齿轮总览","description":"","frontmatter":{},"headers":[],"relativePath":"gears.md","filePath":"gears.md"}'),e={name:"gears.md"};function n(p,t,l,g,o,c){return d(),s("div",null,[...t[0]||(t[0]=[r("",17)])])}const x=a(e,[["render",n]]);export{i as __pageData,x as default};

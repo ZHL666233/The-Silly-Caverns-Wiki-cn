@@ -1,0 +1,102 @@
+/* 齿轮和镐子的彩色文字 */
+.grad-text {
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  color: transparent !important;
+  font-weight: 800 !important;
+  font-size: 1.02em;
+}
+.pk-gray { color: #808080 !important; font-weight: 800 !important; }
+.pk-brown { color: #8B4513 !important; font-weight: 800 !important; }
+.pk-dirt { color: #5C3317 !important; font-weight: 800 !important; }
+.pk-cyan { color: #0099CC !important; font-weight: 800 !important; }
+.pk-slate { color: #556B7A !important; font-weight: 800 !important; }
+.pk-green { color: #1B7A1B !important; font-weight: 800 !important; }
+.pk-purple { color: #5B009F !important; font-weight: 800 !important; }
+.pk-pink { color: #E0457B !important; font-weight: 800 !important; }
+.pk-red { color: #A30000 !important; font-weight: 800 !important; }
+.pk-dark { color: #1A2F3F !important; font-weight: 800 !important; }
+.pk-blue { color: #0077E6 !important; font-weight: 800 !important; }
+.pk-lime { color: #1FA81F !important; font-weight: 800 !important; }
+.pk-orange { color: #E63E00 !important; font-weight: 800 !important; }
+.pk-teal { color: #009999 !important; font-weight: 800 !important; }
+.gear-red { color: #c70000 !important; font-weight: 800 !important; }
+.gear-teal { color: #3D8080 !important; font-weight: 800 !important; }
+.g-cand { background: linear-gradient(to right,#FFD700,#FF8C00); }
+.g-vitriol { background: linear-gradient(to right,#FFFFFF,#FFD700); }
+.g-siphon { background: linear-gradient(to right,#00FF88,#FFFFFF,#FF66CC); }
+.g-sugar { background: linear-gradient(to right,#FF4400,#FFD700,#88FF00); }
+.g-event { background: linear-gradient(to right,#E06699,#8B5E3C,#88EEAA); }
+.g-inf { background: linear-gradient(to right,#3A30C0,#45FFF2,#45A5FF); }
+.g-layer { background: linear-gradient(to right,#999,#999,#49C6FF,#55CC00,#FFF,#AD7F57,#FF5500); }
+.g-fortune { background: linear-gradient(to right,#CC00FF,#5D6BDC,#00EE33,#5D6BDC,#CC00FF); }
+.g-haste { background: linear-gradient(to right,#CCAA33,#FFEE66,#33EEFF,#FFEE66,#CCAA33); }
+.g-abyss { background: linear-gradient(to right,#2D3250,#4A5080,#8088CC,#4A5080,#2D3250); }
+.g-disengage { background: linear-gradient(to right,#5A6070,#77AA44,#FFEE66); }
+.g-silly { background: linear-gradient(to right,#FFEEEE,#FF55DD,#FF2222,#FF55DD,#FFEEEE); }
+.g-wings { background: linear-gradient(to right,#FFFFFF,#555555); }
+.g-time { background: linear-gradient(to right,#FF5577,#66DDEE,#EEEEBB); }
+.g-tracker { background: linear-gradient(to right,#006633,#00FF33); }
+
+/* 世界二 齿轮 */
+.g2-quantum { background: linear-gradient(to right,#854d89,#a9bf70,#8c4c4c); }
+.g2-logic { background: linear-gradient(to right,#8BEFFF,#44CDFF); }
+.g2-storm { background: linear-gradient(to right,#0016AD,#616161,#616161,#FFEF32); }
+.g2-artifice { background: linear-gradient(to right,#931A1C 30%,#9CC400 80%); }
+.g2-replicator { background: linear-gradient(to right,#7AFF1F,#FFEB00,#FF0B0B); }
+.g2-cavern { background: linear-gradient(to right,#856447,#B2B2B2,#585858); }
+.g2-subatomic { background: linear-gradient(to right,#350264,#303287,#000,#226e8f,#15116d); }
+.g2-vacuum { background: linear-gradient(to right,#DFCE21,#F1F1F1,#0C1656 90%); }
+.g2-speedcap { background: linear-gradient(to right,#DCD56B,#550000,#00551F); }
+.g2-inf2 { background: linear-gradient(to right,#2E2486,#45FFF2,#45A5FF); }
+.g2-clover { background: linear-gradient(to right,#FF7C00 10%,#032A00,#11E900,#032A00,#FF7C00 90%); }
+.g2-structural { background: linear-gradient(to right,#CDCDCD 5%,#F55D2F,#474747,#EFD754,#474747,#F55D2F,#CDCDCD 95%); }
+.g2-statamp { background: linear-gradient(to right,#000 5%,#FF3636,#E94585,#000ACE,#FFF 95%); }
+.g2-oblivion { background: linear-gradient(to right,#44533D,#37085A,#76734E,#116666,#58340B,#04370A,#3B0505,#740A32,#451676,#236B4B); }
+
+/* 世界二 镐子 */
+.g2p-echo { background: linear-gradient(to right,#70E3FF 65%,#2BFF00); }
+.g2p-corundum { background: linear-gradient(to right,#FF143E 25%,#3127ED 75%); }
+.g2p-starborne { background: linear-gradient(to right,#FF3607,#FFE428); }
+.g2p-nyabomb { background: linear-gradient(to right,#FF7011 40%,#A9A9A9,#6C6C6C); }
+.g2p-lunar { background: linear-gradient(to right,#C6F9FF,#5B6BC1,#FAFAFA); }
+.g2p-gemstone { background: linear-gradient(to right,#FF9F39 30%,#6BFFE5 80%,#FF9F39); }
+.g2p-gambler { background: linear-gradient(to right,#D10003,#F210A7 50%,#FFDF55 90%); }
+.g2p-centrifuge { background: linear-gradient(to right,#FFE200,#464646,#FFE200,#464646,#FFE200,#464646,#FFE200); }
+.g2p-singularity { background: linear-gradient(to right,#C20000,#FF5300,#0D0D0D,#0D0D0D,#0D0D0D,#0D0D0D,#FF5300,#C20000); }
+.g2p-binding { background: linear-gradient(to right,#F5F5F5,#0D0D0D,#FFFDAF,#0D0D0D,#F5F5F5); }
+.g2p-stormseer { background: linear-gradient(to right,#F6FF58 7%,#0030F1,#676767,#57FDFF,#FC5EFF 93%); }
+.g2p-coronary { background: linear-gradient(to right,#FF2454,#600018,#FF8DCC,#121212,#FF8DCC,#600018,#FF2454); }
+
+/* 子领域一 */
+.g3-replicator { background: linear-gradient(to right,#FF0B0B,#FFEB00,#7AFF1F); }
+.g3-hyperdrive { background: linear-gradient(to right,#00dfff,#3a00f9,#15fd00,#3a00f9,#00dfff); }
+.g3-automaton { background: linear-gradient(to right,#FFFF99,#b4dcf0,#dcf0f0,#b4dcf0,#FFFF99); }
+.g3-alteration { background: linear-gradient(to right,#e365fc,#c9fc3a,#ff4b33); }
+.g3-stratum { background: linear-gradient(to right,#DAE34A,#C69908,#EF5522,#C69908,#DAE34A); }
+.g3-biome { background: linear-gradient(to right,#a3a09d,#585f2a,#978773,#8a8038,#5b590a); }
+.g3-reaper { background: linear-gradient(to right,#5A1700,#8C2806,#AB3C16,#BC4E28,#DB5B2F,#F5541D,#FF4100); }
+.g3-tree { background: linear-gradient(to right,#0CAE5B,#40EE95,#A67B51,#613B16,#A67B51,#40EE95,#0CAE5B); }
+
+/* 水水世界 */
+.g4-lightspeed { background: linear-gradient(to right,#152322,#26363B,#ffffff,#26363B,#152322); }
+.g4-exponential { background: linear-gradient(to right,#87D219,#00501F,#87D219); }
+.g4p-undersea { background: linear-gradient(to right,#00FFFF,#00A36C,#5D3FD3,#CCCCFF,#FFBF00,#CD7F32,#C04000,#FAD5A5,#E4D00A,#FDDA0D); }
+
+/* 银河 */
+.g5p-slicer { background: linear-gradient(to right,#000,#FF4191,#E90074,#FFF078,#FFF078,#E90074,#FF4191,#000); }
+.g5p-wormhole { background: linear-gradient(to right,#0d3dc3,#aafd0a,#c96709,#aafd0a,#0d3dc3); }
+.g5p-capsizer { background: linear-gradient(to right,#2c8769,#085e7e,#2b1660,#520276,#920042,#520276,#2b1660,#085e7e,#2c8769); }
+.g5p-engulfer { background: linear-gradient(to right,#000d6f,#8cd4ff,#0092ff,#7200ea,#0b517c,#7200ea,#0092ff,#8cd4ff,#000d6f); }
+.g5p-flight { background: linear-gradient(to right,#403330 5%,#C6D224,#403330 95%); }
+.g5-potential { background: linear-gradient(to right,#FF8F00,#AF47D2,#FFDB00,#26355D,#FFDB00,#AF47D2,#FF8F00); }
+.g5-electrify { background: linear-gradient(to right,#850F8D,#E49BFF,#F8F9D7,#180161,#F8F9D7,#E49BFF,#850F8D); }
+.g5-rose { background: linear-gradient(to right,#f7cac9,#ffdcdb,#fff,#b4c8ea,#91a8d0); }
+.g5-armband { background: linear-gradient(to right,#c4c5ff,#e1d3ff,#fce9ff,#e1d3ff,#c4c5ff); }
+.g5r-life { background: linear-gradient(to right,#403330 5%,#9A2910,#403330 95%); }
+.g5r-intel { background: linear-gradient(to right,#403330 5%,#1662A4,#403330 95%); }
+.g5r-sound { background: linear-gradient(to right,#403330 5%,#0A9420,#403330 95%); }
+.g5r-unknown { background: linear-gradient(to right,#403330 5%,#000,#403330 95%); }
+.g5r-creation { background: linear-gradient(to right,#403330 5%,#C6D224,#403330 95%); }
+.g5r-fire { background: linear-gradient(to right,#403330 5%,#000,#403330 95%); }

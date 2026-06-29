@@ -1,0 +1,1 @@
+import{_ as d,o as a,c as e,a4 as r}from"./chunks/framework.E9a65_Io.js";const b=JSON.parse('{"title":"虚灵","description":"","frontmatter":{},"headers":[],"relativePath":"ethereal.md","filePath":"ethereal.md"}'),n={name:"ethereal.md"};function o(l,t,i,s,p,c){return a(),e("div",null,[...t[0]||(t[0]=[r("",13)])])}const h=d(n,[["render",o]]);export{b as __pageData,h as default};

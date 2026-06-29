@@ -1,0 +1,39 @@
+# 海底剔骨者
+
+| 属性 | 值 |
+| --- | --- |
+| 镐子名称 | <span style="color:#ccc;font-weight:bold">海底剔骨者</span> |
+| 镐子等级 | <span style="color:#f8480f;font-weight:bold">等级 1</span> |
+ / 1/200 技能触发率 |
+
+### 简介
+
+海底剔骨者是可在[水水世界](./watr-watr.md)中合成的镐子。该技能可挖掘 34,321 个方块，同时揭示 35,899 个方块，拥有 425 倍幸运，挖掘方块时有 1/200 概率触发技能。综合来看，该镐子的一致性为 76,285.375。
+
+### 配方
+
+| 矿石 | 等级 | 稀有度 | 数量 |
+| --- | --- | --- | --- |
+| 🌊 | <TierBadge tier="地层" /> | 1/1 | 500,000,000,000 |
+| ⛵ | <TierBadge tier="神秘" /> | 1/7,895,000 | 336,000,000 |
+| 🎣 | <TierBadge tier="神秘" /> | 1/8,230,000 | 322,000,000 |
+| 🤿 | <TierBadge tier="神秘" /> | 1/8,670,000 | 306,000,000 |
+| 🫧 | <TierBadge tier="神秘" /> | 1/8,750,000 | 303,000,000 |
+| 🐟 | <TierBadge tier="神圣" /> | 1/26,000,000 | 102,000,000 |
+| 👑 | <TierBadge tier="神圣" /> | 1/65,000,000 | 40,800,000 |
+| 🔱 | <TierBadge tier="神圣" /> | 1/70,000,000 | 37,900,000 |
+| 🌀 | <TierBadge tier="无瑕" /> | 1/618,000,000 | 4,290,000 |
+| 👿 | <TierBadge tier="无瑕" /> | 1/750,000,000 | 3,540,000 |
+| 🪩 | <TierBadge tier="星际" /> | 1/999,999,999 | 2,650,000 |
+| 💫 | <TierBadge tier="元宇宙" /> | 1/2,000,000,000 | 1,320,000 |
+| 🐋 | <TierBadge tier="圣洁" /> | 1/8,000,000,000 | 331,000 |
+| ⚓ | <TierBadge tier="虚灵" /> | 1/750,000,000,000 | 3,540 |
+| 🪸 | <TierBadge tier="天界" /> | 1/750,000,000,000 | 1,000 |
+|  | <TierBadge tier="超维" /> | 1/2,500,000,000,000,000 | 1 |
+
+### 其他信息
+
+*If you are missing [[File:HD160529.png|20px]], mine in [[Watr Watr]]. If not, mine in the Water Layer CLT. This is because the Celestial ore needed is only obtainable by an event being active.
+
+---
+*由 [笨猫探穴 Wiki](https://the-silly-caverns.fandom.com/wiki/Undersea_Eviscerator) 汉化*
