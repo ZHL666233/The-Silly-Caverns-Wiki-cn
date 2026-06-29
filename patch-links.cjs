@@ -23,7 +23,7 @@ walk(ROOT, (file) => {
     content = content.replace(/href="(\/[^"]*?)"/g, (m, url) => {
       if (url.includes("://") || url.includes(".html") || url.includes(".css") || 
           url.includes(".js") || url.includes(".woff") || url.includes(".ico") ||
-          url.startsWith("mailto:") || url.startsWith("#") || url === "/" || url === "/" + path.basename(url)) return m;
+          url.startsWith("mailto:") || url.startsWith("#") || url === "/") return m;
       return `href="${url}.html"`;
     });
     changed = true;
