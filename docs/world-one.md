@@ -2,9 +2,9 @@
 
 <img src="https://static.wikia.nocookie.net/the-silly-cavers/images/W1thumbredo.png" alt="W1thumbredo.png" loading="lazy" style="max-width:400px;border-radius:8px" />
 
-世界一 是你进入的第一个世界 笨猫探穴. 它总共包含 9 普通地层 和 3 特殊地层. 它总共有 15 把镐子，其中之一是通往世界二的钥匙。还有总共 16 个齿轮，其中之一是特殊齿轮。
+世界一是笨猫探穴的第一个世界，也是你开启新存档后进入的首个世界。这里共有 9 个普通地层和 3 个特殊地层，包含 15 把镐子（其中一把是通往世界二的钥匙），以及 16 个齿轮。
 
-世界一 是你开始挖掘的第一个地方, 因为它是你开启新存档后进入的第一个世界。你的旅程通常始于泥土地层，但根据你选择的起点，也可能从其他地方开始。
+你的旅程通常始于泥土地层，但根据你选择的起点，也可能从其他地方开始。世界一也是唯一拥有"隐藏地层"机制的世界——随着挖掘深度增加，地层会不断重复生成，并有小概率触发特殊变体。
 
 ### 地层
 
@@ -31,8 +31,8 @@
 | 🤫 | <TierBadge tier="天界" /> | 1/13,370,000,000 |
 | 🐞 | <TierBadge tier="天界" /> | 1/241,200,000,000 |
 | 🍓 | <TierBadge tier="虚灵" /> | 1/560,000,000,000 |
-| Mutated Growth | <TierBadge tier="幻象" /> | 1/3.6T |
-| Orb of Life | <TierBadge tier="多彩" /> | 1/5Qn |
+| 突变生长 | <TierBadge tier="幻象" /> | 1/3.6T |
+| 生命之球 | <TierBadge tier="多彩" /> | 1/5Qn |
 
 ---
 
@@ -119,18 +119,18 @@
 | ❄️ | <TierBadge tier="无瑕" /> | 1/386,500,000 |
 | 🧊 | <TierBadge tier="无瑕" /> | 1/583,000,000 |
 | 🌈 | <TierBadge tier="元宇宙" /> | 1/2,750,000,000 |
-| Apatite | <TierBadge tier="元宇宙" /> | 1/3,250,000,000 |
+| 磷灰石 | <TierBadge tier="元宇宙" /> | 1/3,250,000,000 |
 | 🏔️ | <TierBadge tier="圣洁" /> | 1/5,500,000,000 |
-| Pixel | <TierBadge tier="天界" /> | 1/6,000,000,000 |
+| 像素 | <TierBadge tier="天界" /> | 1/6,000,000,000 |
 | 🪫 | <TierBadge tier="天界" /> | 1/36,000,000,000 |
-| Watermelon Diamond | <TierBadge tier="天界" /> | 1/170,000,000,000 |
+| 西瓜钻石 | <TierBadge tier="天界" /> | 1/170,000,000,000 |
 | 🪦 | <TierBadge tier="天界" /> | 1/386,500,000,000 |
-| Magical Jellyfish | <TierBadge tier="天界" /> | 1/600,000,000,000 |
+| 魔法水母 | <TierBadge tier="天界" /> | 1/600,000,000,000 |
 | 🪤 | <TierBadge tier="虚灵" /> | 1/800,000,000,000 |
-| Various Minerals | <TierBadge tier="幻象" /> | 1/2.04T |
+| 多种矿物 | <TierBadge tier="幻象" /> | 1/2.04T |
 | 🏳️‍🌈 | <TierBadge tier="天界" /> | 1/2.75T |
 | 🌋 | <TierBadge tier="天界" /> | 1/5.5T |
-| starcore | <TierBadge tier="幻象" /> | 1/950T |
+| 星核 | <TierBadge tier="幻象" /> | 1/950T |
 
 ---
 
@@ -175,7 +175,7 @@
 | 🐪 | <TierBadge tier="圣洁" /> | 1/7,800,000,000 |
 | 🍖 | <TierBadge tier="天界" /> | 1/160,000,000,000 |
 | 🦴 | <TierBadge tier="虚灵" /> | 1/175,000,000,000 |
-| OrbofFire | <TierBadge tier="多彩" /> | 1/500Qn |
+| 火焰之球 | <TierBadge tier="多彩" /> | 1/500Qn |
 
 ---
 
@@ -200,7 +200,7 @@
 | 📜 | <TierBadge tier="天界" /> | 1/200,000,000,000 |
 | 🎩 | <TierBadge tier="虚灵" /> | 1/300,500,000,000 |
 | 👁‍🗨 | <TierBadge tier="天界" /> | 1/955,200,890,000 |
-| RealScribbal | <TierBadge tier="超维" /> | 1/2Qd |
+| 真迹涂鸦 | <TierBadge tier="超维" /> | 1/2Qd |
 
 ---
 
@@ -239,10 +239,10 @@
 | ✈️ | <TierBadge tier="无穷小" /> | 1/Infinity |
 | 🐸 | <TierBadge tier="天界" /> | 1/900,000,000,000 |
 | 🎉 | <TierBadge tier="幻象" /> | 1/1T |
-| Kaleidoscope | <TierBadge tier="幻象" /> | 1/9.18T |
-| Qr Code | <TierBadge tier="幻象" /> | 1/281.9T |
-| pasta | <TierBadge tier="超维" /> | 1/1Qd |
-| Ah! So Sorgy! | <TierBadge tier="多彩" /> | 1/1Sx |
+| 万花筒 | <TierBadge tier="幻象" /> | 1/9.18T |
+| 二维码 | <TierBadge tier="幻象" /> | 1/281.9T |
+| 意大利面 | <TierBadge tier="超维" /> | 1/1Qd |
+| 啊！真抱歉！ | <TierBadge tier="多彩" /> | 1/1Sx |
 
 ---
 
@@ -251,72 +251,54 @@
 | 矿石 | 等级 | 稀有度 |
 | --- | --- | --- |
 | 🫶 | <TierBadge tier="幻象" /> | 1/1T |
-| MushroomCats | <TierBadge tier="幻象" /> | 1/14.14T |
-| Orb of Sound | <TierBadge tier="多彩" /> | 1/16.85Qn |
+| 蘑菇猫 | <TierBadge tier="幻象" /> | 1/14.14T |
+| 声音之球 | <TierBadge tier="多彩" /> | 1/16.85Qn |
 
 ---
 
 #### 备注
 
-在此之后，一旦超过 17999 米，你将进入重复地层. 在重复地层中，你可以找到三个特殊地层. Those 地层 are 🎂/愚蠢 地层, 🪈/笛子 地层, 和 特殊 Grass 地层. 它们都可以在重复地层中生成，但各自有设定的概率来取代某个重复地层并转变为自身. 愚蠢/Cake 地层 is a 1/77, 笛子 地层 is a 1/40, 和 特殊 🟩/Grass 地层 is a 1/1337. 以下是来自游戏内 FAQ 和 Discord 的更多相关信息：:
+超过 17999 米后，你将进入重复地层。在重复地层中，可以找到三个特殊地层：🎂 愚蠢地层、🪈 笛子地层和特殊的 🟩 草地地层。它们都可以在重复地层中生成，但各自有设定的概率来取代某个重复地层并转变为自身——愚蠢地层的概率为 1/77，笛子地层为 1/40，特殊草地地层为 1/1337。以下是来自游戏内 FAQ 和 Discord 的更多相关信息：
 
 在世界二和子领域一中，最后一个地层会随着你不断向下挖掘而无限生成。在世界一中，有一个特殊机制，越往下走，生成的地层越多。这些地层通常是主地层的重复版本，并有小概率附加一些特殊内容。还有几个隐藏地层，生成几率非常低。这些特殊地层以及你到过的最低点，会在生成时被添加到传送列表中。一旦你在这些隐藏地层中挖掘达到一定数量，还会为你创建索引页面。
 
-In the 🎂/愚蠢 地层, 有一种特殊矿石只有在触发事件后才能获得. 但该事件极其罕见，持续 2.5 小时. (事件概率为 1/100000)
+在愚蠢地层中，有一种特殊矿石只有在触发事件后才能获得，但该事件极其罕见，持续 2.5 小时（事件概率为 1/100000）。
 
-合成后 [N̴̡̠͍̰̓̀̉́͘͟͜͠͠͝uͧ̆̃͂̔̂͛̆̇ͫ̍̒̍͑̅̎̾͒҉̶̶̧̡̨͘͟͟͡͞͡͏̷̧͈̣̱͚̼̹̤̘̹l̷̷̸̴̨̡̢̜͈̭̰͕̪̯̭͓͓̲̱̹̥̜̝̩̝ͤ̀̕͝͠͠͝͠l̴͋̄̋͐ͪ̒ͦ̄̆̅̂̍͂ͧ͛ͮ̏̒̓ͨ̓͊̓̆ͤ̓̇̽̎͏̷͔̬̟̣͍̗̦̝̮̱̳̼͔̻̭͍̗̦͉̗̥͍͇̭̘͉̕͜͡ ̸̸̶̨̢̳̍̐̓ͪͥ̐͋̃̉͒̓̓̀̌͑̾ͩͯ͋ͦ͗ͮͯͪͥ̅͊ͩͣͨ̆̒̂̂̽̀̀͘͘͘͜͞͠C̵̵̷̸̸̵ͦ͒͆͡͞͡͏̶̵̡͔̙̱͢ḩ̸͙͙̼̖̥̦̻͈̖̫̖̯̣̣͍͎̖̹̜͇̯ͧͥ̎̒ͨ̎̓ͫ͛̅ͨͧͤͤͫ̊̓̈̒͐ͥ̎̓ͤ̃ͧͣ͊̉̄͛͡r̵̸̴̢̢͒ͮ̈́̓ͬ̉͆ͪ̀̓͋̉́͌̾ͬ̾̐ͫ̑ͮ̒̂̈͆͆̆͌̿ͭ́͑̂ͯ͛ͩ̇̚͜͡͏̸̼̫̪̮̲͉͔͇̯̻͇̫͚̰̦̤͈͉̟̙̻̖͇͖̱͕̘̣̫̥̝͍͔͝o̷͐̏̈́ͭ̔̇ͬͣ͑̂̉̑̓̊ͯͪ͏̶̸͏̷̴̴̶̷̷̧́̀̀͘͟͢͞҉̠̩͇͙̥̫̻̮̯̳̖̙͕̹̤͈͓̻͇̘͖͔m͑͐̃́̚͏̷̶̸̴̧̢̧̡̭̰́̕̕͢͡a̷̶̛̓̉͐͋̄̍͊̓ͪ̏̑̍͋ͮ̔͋̒ͧͭ̐̋͛͆̌̚̕͏͏̶͜͢͞͏̵̸̧̢̹̯͎̫̜̪̪̥̫̖̻̝̘͖̼̰̝͈͝͝](./null-chroma.md)], you should advance to [水水](./watr-watr.md). The 镐子 will let you 挖掘 in the 世界. To access this, spam the 水域 地层 传送 a lot. It 拥有 1/500 chance each 传送 to send you to [水水](./watr-watr.md).
+合成 [Null Chroma](./null-chroma.md) 后，你应该推进到[水水世界](./watr-watr.md)。这把镐子可以让你在那里挖掘。要进入水水世界，需要不断点击水域地层传送，每次传送有 1/500 的概率将你送到水水世界。
 
 ### 齿轮
 
-RNG Manipulator - +0.3x Base 幸运.
-
-Makeshift Accelerator - Sets 挖掘 speed delay to 20ms from 25ms.
-
-Time Destabilizer - +0.2倍 offline progress rewards.
-
-矿石 Tracker - Allows access to the 矿石 tracker menu, pointing you towards the nearest rare 矿石 that had a 生成 message. ([古董+](./antique.md))
-
-Real Candilium - Boosts 技能 幸运 by 1.1倍幸运.
-
-Real Vitriol - Sets 挖掘 speed delay to 15ms from 25ms.
-
-Energy Siphoner - Decreases 挖掘 speed by 3ms for 10s after activation, 和 can stack 5 more activations, each adding 5s to the duration. Goes on a 5s cooldown when the time ends. Can be activated by 挖掘 any [古董+](./antique.md) (1/750k+).
-
-Sugar Rush - Increases 技能 proc rates by 20%.
-
-事件 Manager - Unlocks 事件 manager buttons, 和 menu.
-
-Infinity Collector - Instantly mines ANY rare 矿石 that 生成, excluding Celestials.
-
-地层 Materializer - For every 方块 you 挖掘, it gives an additional 地层 方块 from the current 地层 you are in. It can duplicate 地层 Blocks.
-
-Fortune III Book - Increases 技能 幸运 by 1.6x. It DOES stack with Real Candillium.
-
-Haste II Beacon - Sets 挖掘 speed delay to 10ms from 25ms.
-
-Abyssal Leaper - Skips over blank tiles while 挖掘. Can skip up to 25 tiles at once. Will be disabled if holding shift while 挖掘 (sorry mobile players). Has a 1/250 概率 move the player an extra 50 方块. (1/175 chance with Simulated RNG)
-
-Disengaged Incrementer - +0.45x offline progression rewards.
-
-SILLYYYY - Generates a 愚蠢/Cake 地层 at a random position in the 重复地层.
+| 齿轮 | 效果 |
+| --- | --- |
+| RNG 操纵器 | 基础幸运 +0.3 倍 |
+| 临时加速器 | 挖掘速度延迟从 25ms 降至 20ms |
+| 时间失稳器 | 离线进度奖励 +0.2 倍 |
+| 矿石追踪器 | 允许访问矿石追踪菜单，指向最近发出生成消息的稀有矿石（[古董+](./antique.md)） |
+| 真烛晶 | 技能幸运提升 1.1 倍 |
+| 真硫酸 | 挖掘速度延迟从 25ms 降至 15ms |
+| 能量虹吸器 | 激活后挖掘速度 -3ms，持续 10 秒，可叠加 5 次（每次 +5 秒）。结束后进入 5 秒冷却。挖掘[古董+](./antique.md)（1/750k+）时激活 |
+| 糖分冲刺 | 技能触发率提高 20% |
+| 事件管理器 | 解锁事件管理器按钮和菜单 |
+| 无限收集器 | 立即挖掘任何生成的稀有矿石（天界除外） |
+| 地层物质化器 | 每挖掘一个方块，额外给予一个当前地层方块（可复制地层方块） |
+| 时运 III 书 | 技能幸运提升 1.6 倍（与真烛晶叠加） |
+| 急迫 II 信标 | 挖掘速度延迟从 25ms 降至 10ms |
+| 深渊跳跃者 | 跳过空白格子，一次最多 25 格。按住 Shift 时禁用。1/250 概率额外移动 50 方块（模拟 RNG 下为 1/175） |
+| 脱离增量器 | 离线进度奖励 +0.45 倍 |
+| SILLYYYY | 在重复地层中随机位置生成愚蠢地层 |
 
 ### 镐子
 
-[大地污染者](./earth-soiler.md) - 挖掘 822 方块, 揭示 1,207 方块, has 1.3x 幸运, 1/40 技能触发概率. 这使得该镐子的一致性为 39.228 一致性.
-
-[墓穴粉碎者](./crypt-smasher.md) - 挖掘 1,036 方块, 揭示 2,731 方块, has 1.75x 幸运, 1/65 技能触发概率. 这使得该镐子的一致性为 73.527 一致性. 85% line repetition chance, 7 max repetitions.
-
-[迷宫之潮](./labyrinthian-tide.md) - 挖掘 1,264 方块, 揭示 2,095 方块, has 3.75x 幸运, 1/60 技能触发概率. 这使得该镐子的一致性为 130.938 一致性. 70% line repetition chance, 7 max repetitions.
-
-[77叶毁灭者](./77-leaf-destroyer.md) - 挖掘 1,445 方块, 揭示 1,665 方块, has 5x 幸运, 1/35 技能触发概率. 这使得该镐子的一致性为 237.857 一致性. Allows you to 合成 钥匙 to access [世界二](./世界-two.md)
-
-[行星破坏者](./planet-buster.md) - 挖掘 1,989 方块, 揭示 2,803 方块, has 7.5x 幸运, 1/50 技能触发概率. 这使得该镐子的一致性为 420.45 一致性.
-
-[命运漩涡](./whirlpool-of-fate.md) - 挖掘 2,564 方块, 揭示 3,288 方块, has 25x 幸运, 1/80 技能触发概率. 这使得该镐子的一致性为 1,027.5 一致性.
-
-[荣耀之翼](./wings-of-glory.md) - 挖掘 7,269 方块, 揭示 8,025 方块, has 60倍 幸运, 1/250 技能触发概率. 这使得该镐子的一致性为 1,926 一致性. 自动挖掘时一次挖掘 2 个方块. 拥有 2 倍特殊洞穴类型幸运，洞穴大小略微增加.
-
-[钥匙](./the-key.md) - 挖掘 1 个方块，揭示 1 个方块，拥有 1 倍幸运, 1/1 技能触发概率. 这使得该镐子的一致性为 1 一致性. 用于进入 [世界二](./世界-two.md)
+| 镐子 | 属性 |
+| --- | --- |
+| [大地污染者](./earth-soiler.md) | 挖掘 822 / 揭示 1,207 / 1.3 倍幸运 / 1/40 触发率 / 一致性 39.228 |
+| [墓穴粉碎者](./crypt-smasher.md) | 挖掘 1,036 / 揭示 2,731 / 1.75 倍幸运 / 1/65 触发率 / 一致性 73.527 / 行重复率 85%，最多 7 次 |
+| [迷宫之潮](./labyrinthian-tide.md) | 挖掘 1,264 / 揭示 2,095 / 3.75 倍幸运 / 1/60 触发率 / 一致性 130.938 / 行重复率 70%，最多 7 次 |
+| [77叶毁灭者](./77-leaf-destroyer.md) | 挖掘 1,445 / 揭示 1,665 / 5 倍幸运 / 1/35 触发率 / 一致性 237.857 / 可合成钥匙进入世界二 |
+| [行星破坏者](./planet-buster.md) | 挖掘 1,989 / 揭示 2,803 / 7.5 倍幸运 / 1/50 触发率 / 一致性 420.45 |
+| [命运漩涡](./whirlpool-of-fate.md) | 挖掘 2,564 / 揭示 3,288 / 25 倍幸运 / 1/80 触发率 / 一致性 1,027.5 |
+| [荣耀之翼](./wings-of-glory.md) | 挖掘 7,269 / 揭示 8,025 / 60 倍幸运 / 1/250 触发率 / 一致性 1,926 / 自动挖掘每次挖 2 方块 / 2 倍特殊洞穴类型幸运 |
+| [钥匙](./the-key.md) | 挖掘 1 / 揭示 1 / 1 倍幸运 / 1/1 触发率 / 一致性 1 / 用于进入世界二 |
 
 
 ---
